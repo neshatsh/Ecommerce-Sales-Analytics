@@ -142,6 +142,7 @@ Monthly cohort analysis (Sep 2016 – Aug 2018) confirms the low retention findi
 ├── 06_payment_analysis.sql    # Payment method preferences & installment behavior
 ├── 07_cohort_analysis.sql     # Monthly cohort retention analysis
 └── README.md
+└── clean_reviews.py 
 ```
 
 ---
